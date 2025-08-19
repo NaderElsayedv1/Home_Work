@@ -8,7 +8,7 @@ main() {
   print("as int: $value");
 
   value = "String";
-  print("as String: $value");
+  print("as String  : $value");
 
   var greeting = 'Hi';
   greeting = 'Dart';
